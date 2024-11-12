@@ -8,7 +8,7 @@
 
 << List team member names >>
 
-I am working by myself 
+I am working by myself
 ***
 
 ## Project Description
