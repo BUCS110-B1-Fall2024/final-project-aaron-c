@@ -15,7 +15,7 @@
 
 << Give an overview of your project >>
 
-In the game, the user has to navigate through a tunnel and avoid creatures inside 
+In the game, the user has to navigate through a tunnel and avoid creatures inside. Along the cave's path the user can collect coins 
 ***    
 
 ## GUI Design
