@@ -6,9 +6,9 @@
 
 ## Team Members
 
-<< List team member names >>
+<< I am working by myself (Aaron Cordero) >>
 
-I am working by myself
+
 ***
 
 ## Project Description
