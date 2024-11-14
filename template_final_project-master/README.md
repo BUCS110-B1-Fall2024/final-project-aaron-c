@@ -32,11 +32,12 @@ In the game, the user has to navigate through a tunnel and avoid creatures insid
 
 ### Features
 
-1. << Feature 1 >>
-2. << Feature 2 >>
-3. << Feature 3 >>
-4. << Feature 4 >>
-5. << Feature 5 >>
+1) Starting menu
+2) Mobile character
+3) Creatures (Groundhogs)
+4) Underground Structure
+5) Active display of points
+6) Game End Screen
 
 ### Classes
 
