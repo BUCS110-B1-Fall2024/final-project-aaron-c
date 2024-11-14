@@ -2,7 +2,7 @@
 :warning: Everything between << >> needs to be replaced (remove << >> after replacing)
 
 # << Tunnel Journey >>
-## CS110 B1 Final Project  << Semester, Year >>
+## CS110 B1 Final Project  << Fall, 2024 >>
 
 ## Team Members
 
