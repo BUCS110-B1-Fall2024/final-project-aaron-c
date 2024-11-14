@@ -1,7 +1,7 @@
 
 :warning: Everything between << >> needs to be replaced (remove << >> after replacing)
 
-# << Project Title >>
+# << Tunnel Journey >>
 ## CS110 B1 Final Project  << Semester, Year >>
 
 ## Team Members
@@ -15,6 +15,7 @@ I am working by myself
 
 << Give an overview of your project >>
 
+In the game, the user has to navigate through a tunnel and avoid creatures inside 
 ***    
 
 ## GUI Design
