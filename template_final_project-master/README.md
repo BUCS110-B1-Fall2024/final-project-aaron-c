@@ -12,7 +12,7 @@
 
 <<<<<<< HEAD
 << I am working by myself >>
-=======
+
 << I am working by myself (Aaron Cordero) >>
 
 >>>>>>> 5eb9ed05e22c5ae9c428a82af2e4ada15d630363
@@ -53,7 +53,7 @@ In the game, the user has to navigate through a tunnel and avoid creatures insid
 3) Creatures (Groundhogs)
 4) Underground Structure
 5) Active display of points
-6) Game End Screen
+6) Game End Screen....
 >>>>>>> 5eb9ed05e22c5ae9c428a82af2e4ada15d630363
 
 ### Classes
