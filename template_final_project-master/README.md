@@ -1,18 +1,18 @@
 
 :warning: Everything between << >> needs to be replaced (remove << >> after replacing)
 
-# << Project Title >>
-## CS110 B1 Final Project  << Semester, Year >>
+# << Ground Hog Run  >>
+## CS110 B1 Final Project  << Fall, 2024 >>
 
 ## Team Members
 
-<< List team member names >>
+<< I am working by myself >>
 
 ***
 
 ## Project Description
 
-<< Give an overview of your project >>
+<< I will be creating a game called "Mole Run." In this game, there will be a moving mole that attempts to avboid underground drills. This will be a sideways 2D game, where the screen/map will constantly move from left to right with the player. There will be a menu screen, a record of highscores by the player, as well as a message and image that gets displayed when the player gets hit by a drill. As the player goes through the map, he will be able to collect tokens.>>
 
 ***    
 
@@ -30,11 +30,12 @@
 
 ### Features
 
-1. << Feature 1 >>
-2. << Feature 2 >>
-3. << Feature 3 >>
-4. << Feature 4 >>
-5. << Feature 5 >>
+1. << Moveable Players  >>
+2. << Obstacles (Tunnel Drills ) >>
+3. << Menu Screen >>
+4. << A message and image when player gets eliminated >>
+5. << A record of previous scores >>
+6. << There will be a background image that'll serve as the map that the mole naviagtess throuh>>
 
 ### Classes
 
